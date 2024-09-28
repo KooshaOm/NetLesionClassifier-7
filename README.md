@@ -1,4 +1,4 @@
-# NetLesionClassifier 7
+# NetLesionClassifier-7
 
 ## Table of Contents
 
