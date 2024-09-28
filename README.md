@@ -3,8 +3,8 @@
 ## Table of Contents
 
 1. [Project Overview](#project-overview)<br/>
-2. [Key Features](#project-overview)<br/>
-3. [Technical Details](#project-overview)<br/>
+2. [Key Features](#key-features)<br/>
+3. [Technical Details](#technical-details)<br/>
 4. [Installation and Setup](#installation-and-setup)<br/>
 5. [Usage Instructions](#usage-instructions)<br/>
 6. [Examples and Demos](#examples-and-demos)<br/>
