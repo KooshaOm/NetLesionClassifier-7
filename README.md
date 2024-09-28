@@ -90,4 +90,4 @@ No planned features at this time.
 
 ## Learn More
 [Project Presentation](https://youtu.be/LtXUWCuW1PA)<br/>
-[Project Report](media/Final_Report_Team42.pdf)
+[Project Report](media/SkinCancer_Final_Report.pdf)
